@@ -1,6 +1,8 @@
 # chest-x-ray-pneumonia
 
 ## Installation
+1. Anaconda
+1. Pycharm
 1. a new virtual environment with Tensorflow 2.0
 ```linux
 # create a conda environment called tf_2
@@ -11,5 +13,4 @@ conda activate tf_2
 pip install --upgrade pip
 # install tensorflow
 pip install --upgrade tensorflow
-}
 ```

@@ -15,5 +15,11 @@ pip install --upgrade pip
 pip install --upgrade tensorflow
 ```
 ## Learning goals
-* image classification
+* image classification with CNN
 * data augmentation for images
+* transfer learning
+
+### Sources
+https://www.kaggle.com/rajmehra03/a-comprehensive-guide-to-transfer-learning/notebook
+https://www.kaggle.com/madz2000/pneumonia-detection-using-cnn-92-6-accuracy/notebook
+

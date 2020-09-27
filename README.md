@@ -14,3 +14,6 @@ pip install --upgrade pip
 # install tensorflow
 pip install --upgrade tensorflow
 ```
+## Learning goals
+* image classification
+* data augmentation for images

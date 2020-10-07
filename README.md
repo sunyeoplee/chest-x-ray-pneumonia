@@ -1,8 +1,8 @@
 # chest-x-ray-pneumonia
 
 ## Installation
-1. Anaconda
-1. Pycharm
+1. Anaconda 3
+1. Python 3
 1. a new virtual environment with Tensorflow 2.0
 ```linux
 # create a conda environment called tf_2

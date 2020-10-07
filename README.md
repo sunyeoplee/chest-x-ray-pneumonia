@@ -14,7 +14,7 @@ pip install --upgrade pip
 # install tensorflow
 pip install --upgrade tensorflow==2.0
 ```
-## Learning goals
+## Methods
 * image classification with CNN
 * data augmentation for images
 * transfer learning

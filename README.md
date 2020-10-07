@@ -12,7 +12,7 @@ conda activate tf_2
 # update pip
 pip install --upgrade pip
 # install tensorflow
-pip install --upgrade tensorflow
+pip install --upgrade tensorflow==2.0
 ```
 ## Learning goals
 * image classification with CNN
